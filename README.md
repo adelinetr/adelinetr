@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Adelina (or Adaline) from Estonia. Currently I live in Lithuania and do front-end developemnt along with web-design. I really enjoy implementing designs based on the idea and goal of the business, but also include a pleasant intuitive user experience.
+### I'm Adelina (or Adaline) from Estonia. Currently I live in Lithuania and do front-end developemnt along with web-design. I really enjoy implementing designs based on the idea and goal of the business, but also include a pleasant intuitive user experience.
 I also enjoy working with React.js framework, however currently I'm also upgrading my skills by learning about React and Redux in-depth through several courses and my own research to fill up certain knowledge gaps:)
 
 
