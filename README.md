@@ -2,7 +2,7 @@
 
 I'm Adelina, I do front-end development alongside with web-design.
 - I implement visually appealing designs and create a pleasant intuitive user experience.
-- Working mainly with React.js framework, however currently I'm also upgrading my skills by learning about React and Redux in-depth :)
+- Working mainly with React.js, however currently I'm also upgrading my skills by learning about React and Redux in-depth :)
 
 ⚡Currently working on 'Ceramics Club' Website with implementation of the product shop, various options of the courses and user authentication.
 
