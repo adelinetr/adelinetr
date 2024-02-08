@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-I'm Adelina (or Adaline) from Estonia. Currently I live in Lithuania and do front-end developemnt along with web-design. 
-- I really enjoy implementing designs and include a pleasant intuitive user experience.
-- I also enjoy working with React.js framework, however currently I'm also upgrading my skills by learning about React and Redux in-depth through several courses and my own research to fill up certain knowledge gaps:)
+I'm Adelina, I do front-end development alongside with web-design.
+- I implement visually appealing designs and create a pleasant intuitive user experience.
+- Working mainly with React.js framework, however currently I'm also upgrading my skills by learning about React and Redux in-depth :)
 
+⚡Currently working on 'Ceramics Club' Website with implementation of the product shop, various options of the courses and user authentication.
+
+⚡Last project 'PetShelter' website is available on Netlify. Implemented Cat & Dog APIs with search functionality and lazy loading.
 
 
 
